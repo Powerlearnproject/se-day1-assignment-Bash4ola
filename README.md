@@ -44,23 +44,18 @@ Maintenance & Support – Continuous monitoring, bug fixes, and updates ensure t
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Comparison of Waterfall and Agile Methodologies
 1. Approach:
-
 Waterfall follows a sequential, linear process where each phase (e.g., planning, design, coding) must be completed before moving to the next.
 Agile is iterative and flexible, allowing development in cycles (sprints) with continuous improvement.
 2. Flexibility:
-
 Waterfall is rigid, with minimal scope for changes once development begins.
 Agile is highly adaptable, accommodating changes even late in development.
 3. Delivery:
-
 Waterfall delivers the complete product at the end of the process.
 Agile delivers working software in increments, allowing for frequent releases.
 4. Customer Involvement:
-
 Waterfall involves stakeholders mainly in the requirement gathering phase.
 Agile emphasizes continuous collaboration with stakeholders throughout the project.
 5. Risk Management:
-
 Waterfall has higher risks since issues are found late in the process.
 Agile reduces risk by identifying and addressing problems early through iterations.
 Examples of Suitable Scenarios
